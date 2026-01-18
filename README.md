@@ -107,8 +107,24 @@ I build **machine learning systems that go beyond experiments**—from fine-tuni
 
 #### Tools
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
-**Core Areas**  
-NLP • ASR • Computer Vision • Time Series • Model Deployment • Statistical Modeling
+
+### 🧠 Core Areas
+
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-0A66C2?style=for-the-badge&logo=googlebrain&logoColor=white)
+![Deep Learning](https://img.shields.io/badge/Deep%20Learning-8E44AD?style=for-the-badge&logo=pytorch&logoColor=white)
+![Natural Language Processing](https://img.shields.io/badge/NLP-2ECC71?style=for-the-badge&logo=spacy&logoColor=white)
+![Speech Recognition](https://img.shields.io/badge/ASR-FF6F00?style=for-the-badge&logo=googleassistant&logoColor=white)
+![Computer Vision](https://img.shields.io/badge/Computer%20Vision-1ABC9C?style=for-the-badge&logo=opencv&logoColor=white)
+
+![Time Series Forecasting](https://img.shields.io/badge/Time%20Series-34495E?style=for-the-badge&logo=chartdotjs&logoColor=white)
+![RAG Systems](https://img.shields.io/badge/RAG%20Systems-6C5CE7?style=for-the-badge&logo=openai&logoColor=white)
+![LLMs](https://img.shields.io/badge/LLMs-111827?style=for-the-badge&logo=openai&logoColor=white)
+![Agentic AI](https://img.shields.io/badge/Agentic%20AI-7F8C8D?style=for-the-badge&logo=robotframework&logoColor=white)
+
+![Model Deployment](https://img.shields.io/badge/Model%20Deployment-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![MLOps](https://img.shields.io/badge/MLOps-2C3E50?style=for-the-badge&logo=mlflow&logoColor=white)
+![Data Engineering](https://img.shields.io/badge/Data%20Engineering-F39C12?style=for-the-badge&logo=apacheairflow&logoColor=white)
+![Statistical Modeling](https://img.shields.io/badge/Statistical%20Modeling-16A085?style=for-the-badge&logo=r&logoColor=white)
 
 ---
 
