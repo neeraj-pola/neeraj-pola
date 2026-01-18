@@ -46,29 +46,6 @@ I build **machine learning systems that go beyond experiments**—from fine-tuni
 
 ---
 
-## 🚀 Featured Projects
-
-### 🗣️ Automatic Speech Recognition for Low-Resource Languages
-- Multilingual **Wav2Vec2-based ASR system**
-- Retainable fine-tuning modules for customization
-- Designed for underrepresented languages
-
-### 🧠 MindMate — AI-Powered Mental Health Screening
-- End-to-end **RAG platform** using TiDB, LangChain & OpenAI
-- Context-aware PHQ-9 & GAD-7 assessments
-- FastAPI backend supporting **thousands of users**
-
-### 🧘 Surya Namaskar — Real-Time Pose Feedback
-- MediaPipe-based pose detection & classification
-- Instant feedback with high accuracy
-- 📄 Published research paper
-
-### 📈 Time Series Forecasting & Prediction
-- Processed **10k+ time series records**
-- Built ETL pipelines for **Prophet & LSTM**
-- Achieved **15% improvement** in forecast accuracy
-
----
 
 ### 💻 Tech Stack
 
